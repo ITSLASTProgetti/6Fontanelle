@@ -23,9 +23,14 @@ Tempitiche e tecnologie da utilizzare
 
 
 -Progettazione Interfaccia web: 2 ore
+  -Stesura del codice
+  -Immagini da Chrome
 -Stampa dell'elenco con le fontanelle: 1 ora
+  -Creazione di un DataSet unico e ordinato in ordine alfabetico secondo il nome della città(BuffererReader?)
 -Descrizione delle fontanelle con relativa posizione sulla mappa: 5 ore 
+  -Implementazione del codice per inserire la mappa nel codice HTML, (con posizione della fontanella?)
 -Creazione dell'itinerario: 2 ore
+  -Tramite Travel
 
 
 
