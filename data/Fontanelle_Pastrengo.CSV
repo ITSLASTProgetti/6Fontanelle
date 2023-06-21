@@ -1,7 +1,7 @@
-Identificativo;Indirizzo;Tipologia;Note
-Piovezzano;Via Due Porte;Rubinetto;
-Ciclapista;Ciclopista dell'Adige e del Sole;Pulsante;
-Pastrengo;Piazza Carlo Alberto;Rubinetto;
+Identificativo;Indirizzo;Tipologia;Note;Lat;Long
+Piovezzano;Via Due Porte;Rubinetto; 45.50501068672474; 10.795841150568764
+Ciclapista;Ciclopista dell'Adige e del Sole;Pulsante; 45.50896395450404; 10.797212943422503
+Pastrengo;Piazza Carlo Alberto;Rubinetto; 45.492237353801706; 10.800003639455449
 ;;;
 ;;;
 ;;;
