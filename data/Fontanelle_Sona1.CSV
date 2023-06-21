@@ -1,16 +1,16 @@
-Identificativo;Indirizzo;Tipologia;Note
-Lugagnano.01;Via Don G. Fracasso;Pulsante;
-Lugagnano.02;Via Festara;Pulsante;
-Lugagnano.03;Parco Tortella - Via Adda;Pulsante;
-Lugagnano.04;Parco Conti - Via Cristoforo Colombo;Pulsante;
-Lugagnano.05;Via Salvo d'Acquisto;Pulsante;
-Sona.01;Piazza della Vittoria, 37060, Sona;Pulsante;
-Sona.02;Via Monte Ortigara;Pulsante;
-Sona.03;Parco Trevisani - Via Roma;Pulsante;
-Sona.04;Parco San Quirico - Via Gaetano Doninzetti;Pulsante;
-Sona.05;Via San Quirico;Pulsante;
-Palazzolo.01;Via Prele;Pulsante;
-Palazzolo.02;Via IV Novembre;Pulsante;
-Palazzolo.03;Via Gatta;Pulsante;
-San Giorgio in Salici.01;Via Palladio;Pulsante;
-San Giorgio in Salici.02;Via Don Vittorio Castello;Pulsante;
+Identificativo;Indirizzo;Tipologia;Note;Lat;Long
+Lugagnano.01;Via Don G. Fracasso;Pulsante;;45.43110450968179;10.888298852051626;
+Lugagnano.02;Via Festara;Pulsante;;45.43543989071521;10.868509395547415;
+Lugagnano.03;Parco Tortella - Via Adda;Pulsante;;45.43368818364862;10.872271534210308;
+Lugagnano.04;Parco Conti - Via Cristoforo Colombo;;Pulsante;45.43560124024745;10.887994116455824;
+Lugagnano.05;Via Salvo d'Acquisto;Pulsante;;45.43537716041711;10.892328246383647;
+Sona.01;Piazza della Vittoria, 37060, Sona;Pulsante;;45.433613032817405;10.833402836024128;
+Sona.02;Via Monte Ortigara;Pulsante;;45.43180301796955;10.839488545873003;
+Sona.03;Parco Trevisani - Via Roma;;Pulsante;45.434562637177386;10.831730701979769;
+Sona.04;Parco San Quirico - Via Gaetano Doninzetti;Pulsante;;45.43642674258826;10.824085719876956;
+Sona.05;Via San Quirico;Pulsante;;45.4431094081659;10.821220791020624;
+Palazzolo.01;Via Prele;Pulsante;;45.45150802797749;10.818049454977947;
+Palazzolo.02;Via IV Novembre;Pulsante;;45.45277464095968;10.818023096841745;
+Palazzolo.03;Via Gatta;Pulsante;;45.45230738633649;10.815422936343873;
+San Giorgio in Salici.01;Via Palladio;Pulsante;;45.42495506104891;10.785978255855419;
+San Giorgio in Salici.02;Via Don Vittorio Castello;Pulsante;;45.426771634543975;10.786501939309;
