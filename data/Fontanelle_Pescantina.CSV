@@ -1,28 +1,28 @@
-Identificativo;Indirizzo;Tipologia;Note;
+Identificativo;Indirizzo;Tipologia;Note;Lat;Long
 Giardino;via M. Pastello;Pulsante;Ospedaletto;45.50511896899591;10.838774657373648
 parco giochi ed aiuola;via Busa;Pulsante;Ospedaletto;45.50589940154476;10.836770847762761
 Parco via Don Morandin;via Don Morandin;Pulsante;LOCALITA’ SANTA LUCIA;45.49931208015199;10.81931872031678
 Parco via Almirante;via Almirante;Pulsante;LOCALITA’ SANTA LUCIA;45.49879641776336;10.822485938502581
-parco giochi via Don Calabria;via Don Calabria;Pulsante;LOCALITA’ BALCONI;
-Area via S. Francesco;via S. Francesco;Pulsante;LOCALITA’ BALCONI;
-Piazza Tanti Balconi;Piazza Tanti Balconi;Pulsante;LOCALITA’ BALCONI;
-Via Postale vecchia  Campetto;Via Postale vecchia;Pulsante;LOCALITA’ BALCONI;
-Via Siedlce -Via S. Francesco 3 aree;Via Siedlce -Via S. Francesco;Pulsante;LOCALITA’ BALCONI;
-Parco via dei Peschi;via dei Peschi;Pulsante;LOCALITA’ SETTIMO;
-area cinofila;Via dei Pini;Pulsante;LOCALITA’ SETTIMO;
-parco giochi via Bertoldi;via Bertoldi;Pulsante;LOCALITA’ SETTIMO;
-area via Verdi via Rossini;via Verdi via Rossini;Pulsante;LOCALITA’ SETTIMO;
-parco giochi via Vicentini;via Vicentini;Pulsante;LOCALITA’ SETTIMO;
-via Vivaldi;via Vivaldi;Pulsante;LOCALITA’ SETTIMO;
-parco giochi Corte regia;Corte regia;Pulsante;LOCALITA’ SETTIMO;
-parco Padre Zeno;via Belvedere;Pulsante;LOCALITA’ ARCE’;
-Parco giochi via M. Castagna;via M. Castagna;Pulsante;LOCALITA’ CAPOLUOGO OVEST;
-Parco via Zenati;via Zenati;Pulsante;LOCALITA’ CAPOLUOGO OVEST;
-Via Don Ottoboni;Via Don Ottoboni;Pulsante;LOCALITA’ CAPOLUOGO OVEST;
-Area Donatori Sangue;via Moletti;Pulsante;LOCALITA’ CAPOLUOGO NORD - OVEST;
-Area via dei sassi;via dei sassi;Pulsante;LOCALITA’ CAPOLUOGO NORD - OVEST;
-Area verde lottizzazione Sabionè;via Salvo D'Acquisto;Pulsante;LOCALITA’ CAPOLUOGO NORD - OVEST;
-Area via Anita Garibaldi;via Anita Garibaldi;Pulsante;LOCALITA’ CAPOLUOGO NORD - OVEST;
+parco giochi via Don Calabria;via Don Calabria;Pulsante;LOCALITA’ BALCONI;45.49514939272525;10.874752305555926
+Area via S. Francesco;via S. Francesco;Pulsante;LOCALITA’ BALCONI;45.49252951328682;10.868886690339398
+Piazza Tanti Balconi;Piazza Tanti Balconi;Pulsante;LOCALITA’ BALCONI;45.49544273417356;10.874069258076595
+Via Postale vecchia  Campetto;Via Postale vecchia;Pulsante;LOCALITA’ BALCONI;45.49125126746763;10.874528107936085
+Via Siedlce -Via S. Francesco 3 aree;Via Siedlce -Via S. Francesco;Pulsante;LOCALITA’ BALCONI;45.4916041028094;10.869281060741448
+Parco via dei Peschi;via dei Peschi;Pulsante;LOCALITA’ SETTIMO;45.4794981190061;10.896165152146832
+area cinofila;Via dei Pini;Pulsante;LOCALITA’ SETTIMO;45.47856667776234;10.892607182269366
+parco giochi via Bertoldi;via Bertoldi;Pulsante;LOCALITA’ SETTIMO;45.47992532177728;10.902564396308305
+area via Verdi via Rossini;via Verdi via Rossini;Pulsante;LOCALITA’ SETTIMO;45.47933796535205;10.902928611709948
+parco giochi via Vicentini;via Vicentini;Pulsante;LOCALITA’ SETTIMO;45.47762637392802;10.905821768903783
+via Vivaldi;via Vivaldi;Pulsante;LOCALITA’ SETTIMO;45.48003351663238;10.902618213141432
+parco giochi Corte regia;Corte regia;Pulsante;LOCALITA’ SETTIMO;45.47338113164238;10.907813887851118
+parco Padre Zeno;via Belvedere;Pulsante;LOCALITA’ ARCE’;45.50416538199806;10.835657919959154
+Parco giochi via M. Castagna;via M. Castagna;Pulsante;LOCALITA’ CAPOLUOGO OVEST;45.478116881107056;10.854682849643817
+Parco via Zenati;via Zenati;Pulsante;LOCALITA’ CAPOLUOGO OVEST;45.48288923041981;10.86047577496207
+Via Don Ottoboni;Via Don Ottoboni;Pulsante;LOCALITA’ CAPOLUOGO OVEST;45.48045807918637;10.860720988004275
+Area Donatori Sangue;via Moletti;Pulsante;LOCALITA’ CAPOLUOGO NORD - OVEST;45.484160982068424;10.866639043326485
+Area via dei sassi;via dei sassi;Pulsante;LOCALITA’ CAPOLUOGO NORD - OVEST;45.486206930533086;10.860868123876791
+Area verde lottizzazione Sabionè;via Salvo D'Acquisto;Pulsante;LOCALITA’ CAPOLUOGO NORD - OVEST;45.48747744468194;10.865773545746688
+Area via Anita Garibaldi;via Anita Garibaldi;Pulsante;LOCALITA’ CAPOLUOGO NORD - OVEST;45.48499653647984;10.861587236779247
 Area via caduti del lavoro;via caduti del lavoro;Pulsante;LOCALITA’ CAPOLUOGO NORD - OVEST;
 Giardino Via Vegra;Via Vegra;Pulsante;LOCALITA’ CAPOLUOGO NORD - EST;
 Parco giochi via Vezza;via Vezza;Pulsante;LOCALITA’ CAPOLUOGO NORD - EST;
