@@ -1,20 +1,20 @@
-Identificativo;Indirizzo;Tipologia;Note
-Fontanella Forette Via San Martino ;Via San Martino, 14;Pulsante;
-Fontanella Forette Via Custoza;Via Custoza, 17;Pulsante;
-Fontanella Piazza Vigasio;Via Roma, 3;Flusso continuo;
-Fontanella Piazzale Scuole;Via Bassini, 3;Pulsante;
-Fontanella Parco Isolalta;Via Villafranca, 39;Pulsante;
-Fontanella Via I Maggio;Via I Maggio, 22;Pulsante;
-Fontanella Via Divisione Acqui;Via Divisione Acqui;Pulsante;
-Fontanella Area Cani Baita Alpini;Via Divisione Acqui;Pulsante;
-Fontanella Parco Via Colombo;Via Colombo, 2;Pulsante;
-Fontanella Parco Viale Europa;Viale Ugo Foscolo, 12;Pulsante;
-Fontanella Parco Via Aldo Moro;Via Aldo Moro, 32;Pulsante;
-Fontanella Parco Via Olmo;Via Olmo, 2;Pulsante;
-Fontana Chiesa Vigasio;Via Papa Luciani, 3;Flusso continuo;
-Fontanella Via Volta;Via Alessandro Volta, 17;Pulsante;
-Fontanella Via Caboto;Via Giovanni Caboto, 1;Pulsante;
-Fontanella Parco Amore dei Tre Re;Via Bassini, 1;Pulsante;
+Identificativo;Indirizzo;Tipologia;Note;Lat;Long
+Fontanella Forette Via San Martino ;Via San Martino, 14;Pulsante;;45.34716076313572;10.944009989281833;
+Fontanella Forette Via Custoza;Via Custoza, 17;Pulsante;;45.34163068198531;10.940602991450564;
+Fontanella Piazza Vigasio;Via Roma, 3;Flusso continuo;;45.31699397881865;10.941899567322215;
+Fontanella Piazzale Scuole;Via Bassini, 3;Pulsante;;45.31542163657572;10.937251664313267;
+Fontanella Parco Isolalta;Via Villafranca, 39;Pulsante;;45.33772038914501;10.922252664713007;
+Fontanella Via I Maggio;Via I Maggio, 22;Pulsante;;45.326204025310275;10.944769029184904;
+Fontanella Via Divisione Acqui;Via Divisione Acqui;Pulsante;;45.31341820544306;10.93797349750024;
+Fontanella Area Cani Baita Alpini;Via Divisione Acqui;Pulsante;;45.31369865285566;10.937933709259163;
+Fontanella Parco Via Colombo;Via Colombo, 2;Pulsante;;45.32883332820291;10.947322504921747;
+Fontanella Parco Viale Europa;Viale Ugo Foscolo, 12;Pulsante;;45.3166858022725;10.946239880739657;
+Fontanella Parco Via Aldo Moro;Via Aldo Moro, 32;Pulsante;;45.31329837398259;10.93294620152899;
+Fontanella Parco Via Olmo;Via Olmo, 2;Pulsante;;45.31612716287945;10.934418445231698;
+Fontana Chiesa Vigasio;Via Papa Luciani, 3;Flusso continuo;45.31716450166262;10.941157012309727;
+Fontanella Via Volta;Via Alessandro Volta, 17;Pulsante;;45.324044174352196;10.944033772371034;
+Fontanella Via Caboto;Via Giovanni Caboto, 1;Pulsante;;45.327501445737305;10.946089845563789;
+Fontanella Parco Amore dei Tre Re;Via Bassini, 1;Pulsante;;45.315716548705915;10.939744923570858;
 ;;;
 ;;;
 ;;;

@@ -1,20 +1,20 @@
-Identificativo;Indirizzo;Tipologia;Note
-Parco Camalavicina;Via Camalavicina;Pulsante;
-Parco Attila;Via Attila;Pulsante;
-Parco Risorgimento;Via Risorgimento;Pulsante;
-Parco 24 Giugno 1886;Piazza 24Giugno 1886;Pulsante;
-Parco 6 Fontane;Vicolo Fiume;ND;
-Parco Mongabia;Via Costantino Nigra;ND;
-Parco Impianti Sportivi Castelnuovo;Via Oregolo;Pulsante;
-Parco Impianti Sportivi Sandr‡;Via S. Antonio;Pulsante;
-Parco Pasque Veronesi;Via Pasque Veronesi;Pulsante;
-Parco Martin Luther King;Via Martin Luther King;Pulsante;
-Parco Monte Alto;Via Degli Studi;Pulsante;
-Piazza Della Libert‡;Piazza Della Libert‡;Pulsante;
-Via Cavour, Via Trento;Via Cavour Via Trento;Flusso continuo;
-Piazza Cavalcaselle ;Via  Settembre;Pulsante;
-Parco Martin Luther King;Via Martin Luther King;Pulsante;
-Parco Monte Alto;Via Degli Studi;Pulsante;
+Identificativo;Indirizzo;Tipologia;Note;Lat;Long
+Parco Camalavicina;Via Camalavicina;Pulsante;;45.4171294729841;10.723390948582527;
+Parco Attila;Via Attila;Pulsante;;45.41744207097546;10.725817862670178;
+Parco Risorgimento;Via Risorgimento;Pulsante;;45.40839942469932;10.75023156290057;
+Parco 24 Giugno 1886;Piazza 24Giugno 1886;Pulsante;;45.40621601199858;10.74997731830815;
+Parco 6 Fontane;Vicolo Fiume;ND;;45.43084570645405;10.753223847101795;
+Parco Mongabia;Via Costantino Nigra;ND;;45.41192857916218;10.75023546081041;
+Parco Impianti Sportivi Castelnuovo;Via Oregolo;Pulsante;;45.44247604039749;10.751370751441375;
+Parco Impianti Sportivi Sandr√†;Via S. Antonio;Pulsante;;45.464343439810754;10.786800736349981;
+Parco Pasque Veronesi;Via Pasque Veronesi;Pulsante;;45.43988944569822;10.758763909436468;
+Parco Martin Luther King;Via Martin Luther King;Pulsante;;45.44214706637133;10.756050096387227;
+Parco Monte Alto;Via Degli Studi;Pulsante;;45.44366530680311;10.763569012327116;
+Piazza Della Libert√†;Piazza Della Libert√†;Pulsante;;45.43941555174431;10.764686792177173;
+Via Cavour, Via Trento;Via Cavour Via Trento;Flusso continuo;;45.44356390048229;10.766810241239652;
+Piazza Cavalcaselle ;Via  Settembre;Pulsante;;;;;
+Parco Martin Luther King;Via Martin Luther King;Pulsante;;45.44214706637133;10.756050096387227;
+Parco Monte Alto;Via Degli Studi;Pulsante;;45.44366530680311;10.763569012327116;
 ;;;
 ;;;
 ;;;
